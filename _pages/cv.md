@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Electrical Engineering and Automation, Harbin Institute of Technology, 2016
-* M.Eng. in Control Engineering, Harbin Institute of Technology, 2019
-* Ph.D. in Electronic Engineering, The Chinese University of Hong Kong, 2024 (expected)
+* B.Eng. in Electrical Engineering and Automation, Harbin Institute of Technology, 2016, Tutor, [Prof. Huihui Song](http://homepage.hit.edu.cn/HuihuiSong)
+* M.Eng. in Control Engineering, Harbin Institute of Technology, 2019, Supervisor: [Prof. Guangfu Ma](http://homepage.hit.edu.cn/maguangfu)
+* Ph.D. in Electronic Engineering, The Chinese University of Hong Kong, 2024 (expected), Supervisor, [Prof. Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/)
 
 Honors & Awards
 ======
