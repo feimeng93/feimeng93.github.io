@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, there! I am Memphis, a Ph.D. student at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), supervised by [Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/). Before joining CUHK, I received the B.Eng. and M.Eng. both from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/). My research interests include learning-based motion planning and control.
+Hi, there! I am Memphis, Fei Meng, a Ph.D. student at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), supervised by [Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/). Before joining CUHK, I received the B.Eng. and M.Eng. both from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/). My research interests include learning-based motion planning and control.
 
 News
 ======
@@ -33,7 +33,6 @@ Preprints
 Publications
 ======
 Journal Publications
--------------------
 **An HVAC Control Approach via Combining Model-based Deep Reinforcement Learning and Model Predictive Control**
 - L. CHEN, **F. MENG**, Y. ZHANG* 
 - IEEE Internet of Things Journal (IEEE IoT)
@@ -47,12 +46,11 @@ Journal Publications
 - IET Cyber-Systems and Robotics
 
 Conference Publications
--------------------
 **Reciprocally Rotating Magnetic Actuation and Automatic Trajectory Following for Wireless Capsule Endoscopy**
 - Y. XU, K. LI, Z. ZHAO, **F. MENG**, Max Q.-H. MENG*
 - 2021 IEEE International Conference on Robotics and Automation (ICRA)
 
-A Nonuniform Sampling Strategy for Path Planning Using Heuristic-based Certiﬁcate Set
+**A Nonuniform Sampling Strategy for Path Planning Using Heuristic-based Certiﬁcate Set**
 - H. MA, J. LIU, **F. MENG**, J. PAN, J. WANG*, Max Q.-H. MENG* 
 - 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO)
 
@@ -63,27 +61,22 @@ A Nonuniform Sampling Strategy for Path Planning Using Heuristic-based Certiﬁc
 Academic Service
 ==============
 Journal Reviewer
---------------
 - IEEE Robotics and Automation Letters (IEEE RA-L)
 - IEEE Transactions on Automation Science and Engineering (IEEE T-ASE)
 - IEEE Transactions on Systems, Man, and Cybernetics: Systems (IEEE SMC)
 
 Conference Reviewer
------------------
 - IEEE International Conference on Robotics and Automation (ICRA)
 - IEEE International Conference on Robotics and Biomimetics (ROBIO)
 
 Conference Chair
---------------
 - Session chair of IEEE International Conference on Robotics and Automation (ICRA), 2021
 
 Work Experience
 ==============
-**Intern** 2012 Lab, Huawei Technologies Co. Ltd., Shenzhen, 05/2021 – 09/2021
-Mentor: Dr. Chen CHEN
+**Intern** at 2012 Lab, Huawei Technologies Co. Ltd., Shenzhen, 05/2021 – 09/2021
 
-**Research Assistant** RPAI Lab, The Chinese University of Hong Kong, Hong Kong, 07/2019 – 07/2020
-Supervisor: Prof. Max Qinghu MENG
+**Research Assistant** at RPAI Lab, The Chinese University of Hong Kong, Hong Kong, 07/2019 – 07/2020
 
 Let's get in touch!
 ========
