@@ -41,10 +41,10 @@ Honors & Awards
 Work experience
 ======
 * **Research Assistant** at The Chinese University of Hong Kong, Hong Kong, 2019-2020
-  * Duties included: Develop an ederly-care robotic rollator. Supervisor: Professor Max Q.-H. Meng
+  * Duties included: Constrcut and control the ederly-care robotic rollator. Supervisor: Professor Max Q.-H. Meng
 
 * **Intern** at 2012 Lab, Huawei Technologies Co. Ltd., Shenzhen, 05/2021 – 09/2021
-  * Duties included: Develop learning-based motion planners. Mentor: Dr. Chen Chen
+  * Duties included: Develop the learning-based motion planner for the mobile manipulator. Mentor: Dr. Chen Chen
  
  
 Research Experiences
