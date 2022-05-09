@@ -20,8 +20,10 @@ Publications
 ======
 1. Preprints
   - **NR-RRT: Neural Risk-Aware Near-Optimal Path Planning in Uncertain Nonconvex Environments**
-    - **F. MENG**, L. CHEN, H. MA, J. WANG*, Max Q.-H. MENG* 
-    - (Under Review) IEEE Transactions on Automation Science and Engineering (IEEE T-ASE)
+ 
+    **F. MENG**, L. CHEN, H. MA, J. WANG*, Max Q.-H. MENG* 
+    
+    (Under Review) IEEE Transactions on Automation Science and Engineering (IEEE T-ASE)
 
   - **Relevant Region Sampling Strategy with Adaptive Heuristic Estimation for Asymptotically Optimal Motion Planning**
     - C. LI, **F. MENG**, J. WANG*, Max Q.-H. MENG* 
