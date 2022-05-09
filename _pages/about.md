@@ -12,9 +12,9 @@ Hi, there! I am Memphis, Fei Meng, a Ph.D. student at [The Chinese University of
 
 News
 ======
-1. One article "NR-RRT: Neural Risk-Aware Near-Optimal Path Planning in Uncertain Nonconvex Environments" is submitted to IEEE T-ASE.
-2. One paper is accpected to IEEE IoT.
-3. One paper is accpected to IEEE T-IV.
+1. One article "NR-RRT: Neural Risk-Aware Near-Optimal Path Planning in Uncertain Nonconvex Environments" has been submitted to IEEE T-ASE.
+2. One paper has been accpected to IEEE IoT.
+3. One paper has been accpected to IEEE T-IV.
 
 Preprints
 ======
