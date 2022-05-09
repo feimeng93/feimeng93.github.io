@@ -85,9 +85,9 @@ author:
   bio              : "Ph.D. student at The Chinese University of Hong Kong, devoted to learning-based motion planning and control"
   location         : "Hong Kong"
   employer         : 
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SDvxmt0AAAAJ&hl=zh-CN"
-  email            : "feimeng@link.cuhk.edu.hk"
+  email            : "<a href="mailto:feimeng@link.cuhk.edu.hk">Click me to send email.</a>"
   researchgate     : "https://www.researchgate.net/profile/Fei-Meng-10"
   uri              :
   bitbucket        :
