@@ -11,22 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Electrical Engineering and Automation, Harbin Institute of Technology, 2016, Tutor, [Prof. Huihui Song](http://homepage.hit.edu.cn/HuihuiSong)
+* B.Eng. in Electrical Engineering and Automation, Harbin Institute of Technology, 2016, Tutor: [Prof. Huihui Song](http://homepage.hit.edu.cn/HuihuiSong)
 * M.Eng. in Control Engineering, Harbin Institute of Technology, 2019, Supervisor: [Prof. Guangfu Ma](http://homepage.hit.edu.cn/maguangfu)
 * Ph.D. in Electronic Engineering, The Chinese University of Hong Kong, 2024 (expected), Supervisor: [Prof. Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/)
 
 Academic Service
 ======
-**Journal Reviewer**
+**Reviewers & Conference Chair**
 - IEEE Robotics and Automation Letters (IEEE RA-L)
 - IEEE Transactions on Automation Science and Engineering (IEEE T-ASE)
 - IEEE Transactions on Systems, Man, and Cybernetics: Systems (IEEE SMC)
-
-**Conference Reviewer**
 - IEEE International Conference on Robotics and Automation (ICRA)
 - IEEE International Conference on Robotics and Biomimetics (ROBIO)
-
-**Conference Chair**
 - Session chair of IEEE International Conference on Robotics and Automation (ICRA), 2021
 
 **Teaching Assistant**
@@ -44,15 +40,11 @@ Honors & Awards
 
 Work experience
 ======
-* 2019-2020: Research Assistant
-  * The Chinese University of Hong Kong, Hong Kong
-  * Duties included: Develop an ederly-care robotic rollator
-  * Supervisor: Professor Max Q.-H. Meng
+* **Research Assistant** at The Chinese University of Hong Kong, Hong Kong, 2019-2020
+  * Duties included: Develop an ederly-care robotic rollator. Supervisor: Professor Max Q.-H. Meng
 
-* 05/2021 – 09/2021: Intern
-  * 2012 Lab, Huawei Technologies Co. Ltd., Shenzhen
-  * Duties included: Develop learning-based motion planners
-  * Mentor: Dr. Chen Chen
+* **Intern** at 2012 Lab, Huawei Technologies Co. Ltd., Shenzhen, 05/2021 – 09/2021
+  * Duties included: Develop learning-based motion planners. Mentor: Dr. Chen Chen
  
  
 Research Experiences
