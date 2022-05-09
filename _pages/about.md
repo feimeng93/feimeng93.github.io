@@ -61,11 +61,6 @@ Academic Service
 - IEEE International Conference on Robotics and Biomimetics (ROBIO)
 - Session chair of IEEE International Conference on Robotics and Automation (ICRA), 2021
 
-Work Experience
-==============
-- **Intern** at 2012 Lab, Huawei Technologies Co. Ltd., Shenzhen, 05/2021 – 09/2021
-- **Research Assistant** at RPAI Lab, The Chinese University of Hong Kong, Hong Kong, 07/2019 – 07/2020
-
 Let's get in touch!
 ========
 E-mail:feimeng_at_link.cuhk.cuhk.edu.hk
