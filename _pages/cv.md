@@ -32,35 +32,15 @@ Skills
 * Programming skills: C/C++, Python, MATLAB/Simulink, Maple, Julia, R.
 * Robotic Software: ROS, Gazebo, MoveIt, Vrep, Pybullet.
 * Languages: Mandarin (Native), English (Fluent).
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+Service
 ======
 **Journal Reviewer**
 - IEEE Robotics and Automation Letters (IEEE RA-L)
 - IEEE Transactions on Automation Science and Engineering (IEEE T-ASE)
 - IEEE Transactions on Systems, Man, and Cybernetics: Systems (IEEE SMC)
-
 **Conference Reviewer**
 - IEEE International Conference on Robotics and Automation (ICRA)
 - IEEE International Conference on Robotics and Biomimetics (ROBIO)
-
 **Conference Chair**
 -Session chair of IEEE International Conference on Robotics and Automation (ICRA), 2021
