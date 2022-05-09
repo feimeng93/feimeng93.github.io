@@ -15,6 +15,24 @@ Education
 * M.Eng. in Control Engineering, Harbin Institute of Technology, 2019, Supervisor: [Prof. Guangfu Ma](http://homepage.hit.edu.cn/maguangfu)
 * Ph.D. in Electronic Engineering, The Chinese University of Hong Kong, 2024 (expected), Supervisor, [Prof. Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/)
 
+Academic Service
+======
+**Journal Reviewer**
+- IEEE Robotics and Automation Letters (IEEE RA-L)
+- IEEE Transactions on Automation Science and Engineering (IEEE T-ASE)
+- IEEE Transactions on Systems, Man, and Cybernetics: Systems (IEEE SMC)
+
+**Conference Reviewer**
+- IEEE International Conference on Robotics and Automation (ICRA)
+- IEEE International Conference on Robotics and Biomimetics (ROBIO)
+
+**Conference Chair**
+-Session chair of IEEE International Conference on Robotics and Automation (ICRA), 2021
+
+**Teaching Assistant**
+- Introduction to Electric Power Systems (ELEG3601) for Undergraduates. Spring 2021, CUHK, HK, China
+- Fundamentals of Electric Circuits (ELEG2202A) for Undergraduates. Fall 2020/21, CUHK, HK, China
+
 Honors & Awards
 ======
 Outstanding Student of Heilongjiang Province, China (top 1%)
@@ -26,6 +44,7 @@ Outstanding Graduates of Harbin Institute of Technology (top 10%)
 Outstanding Student of Harbin Institute of Technology (top 4%)
 
 Top Ten Student Leader of Harbin Institute of Technology
+
 
 Work experience
 ======
@@ -39,27 +58,15 @@ Work experience
   * Duties included: Develop learning-based motion planners
   * Mentor: Dr. Chen Chen
  
-Teaching Assistant
-======
-- Introduction to Electric Power Systems (ELEG3601) for Undergraduates. Spring 2021, CUHK, HK, China
-- Fundamentals of Electric Circuits (ELEG2202A) for Undergraduates. Fall 2020/21, CUHK, HK, China
+ 
+Research Experiences
+=======
+Member of "Development of a Robotic Rollator-orthosis System for Mobility Augmentation and Eldercare", Midstream Research Programme for University, ITC, HK 
+
+Member of "Design & Implementation of Control System for Pneumatically Actuated Continuum Manipulator", Crosswise Task from China Academy of Space Technology, China 
 
 Skills
 ======
 * Programming skills: C/C++, Python, MATLAB/Simulink, Maple, Julia, R.
 * Robotic Software: ROS, Gazebo, MoveIt, Vrep, Pybullet.
 * Languages: Mandarin (Native), English (Fluent).
-  
-Service
-======
-**Journal Reviewer**
-- IEEE Robotics and Automation Letters (IEEE RA-L)
-- IEEE Transactions on Automation Science and Engineering (IEEE T-ASE)
-- IEEE Transactions on Systems, Man, and Cybernetics: Systems (IEEE SMC)
-
-**Conference Reviewer**
-- IEEE International Conference on Robotics and Automation (ICRA)
-- IEEE International Conference on Robotics and Biomimetics (ROBIO)
-
-**Conference Chair**
--Session chair of IEEE International Conference on Robotics and Automation (ICRA), 2021
