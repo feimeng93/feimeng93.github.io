@@ -18,39 +18,21 @@ News
 
 Preprints
 ======
-- **NR-RRT: Neural Risk-Aware Near-Optimal Path Planning in Uncertain Nonconvex Environments**
-  - **F. MENG**, L. CHEN, H. MA, J. WANG*, Max Q.-H. MENG* 
-  - (Under Review) IEEE Transactions on Automation Science and Engineering (IEEE T-ASE)
-- **Relevant Region Sampling Strategy with Adaptive Heuristic Estimation for Asymptotically Optimal Motion Planning**
-  - C. LI, **F. MENG**, J. WANG*, Max Q.-H. MENG* 
-  - https://arxiv.org/abs/2111.00383
-- **Hierarchical Policy for Non-prehensile Multi-object Rearrangement with Deep Reinforcement Learning and Monte Carlo Tree Search**
-  - F. BAI, **F. MENG**, J. LIU, J. WANG, Max Q.-H. MENG* 
-  - https://arxiv.org/abs/2109.08973
+- **F. MENG**, L. CHEN, H. MA, J. WANG*, Max Q.-H. MENG*. **NR-RRT: Neural Risk-Aware Near-Optimal Path Planning in Uncertain Nonconvex Environments**. (Under Review) IEEE Transactions on Automation Science and Engineering (IEEE T-ASE).
+- C. LI, **F. MENG**, J. WANG*, Max Q.-H. MENG*. **Relevant Region Sampling Strategy with Adaptive Heuristic Estimation for Asymptotically Optimal Motion Planning**. https://arxiv.org/abs/2111.00383.
+- F. BAI, **F. MENG**, J. LIU, J. WANG, Max Q.-H. MENG*. **Hierarchical Policy for Non-prehensile Multi-object Rearrangement with Deep Reinforcement Learning and Monte Carlo Tree Search**. https://arxiv.org/abs/2109.08973.
     
 Publications
 ===== 
 **Journal Publications**
-  - **An HVAC Control Approach via Combining Model-based Deep Reinforcement Learning and Model Predictive Control**
-    - L. CHEN, **F. MENG**, Y. ZHANG* 
-    - IEEE Internet of Things Journal (IEEE IoT)
-  - **Bi-Risk-RRT Based Efficient Motion Planning for Mobile Robots**
-    - H. MA, **F. MENG**, J. WANG*, Max Q.-H. MENG* 
-    - IEEE Transactions on Intelligent Vehicles (IEEE T-IV)
-  - **A Survey of Learning-based Robot Motion Planning**
-    - J. WANG, T. ZHANG, N. MA, H. MA, **F. MENG**, Max Q.-H. MENG* 
-    - IET Cyber-Systems and Robotics
+  - L. CHEN, **F. MENG**, Y. ZHANG*. **An HVAC Control Approach via Combining Model-based Deep Reinforcement Learning and Model Predictive Control**. IEEE Internet of Things Journal (IEEE IoT).
+  - H. MA, **F. MENG**, J. WANG*, Max Q.-H. MENG*. **Bi-Risk-RRT Based Efficient Motion Planning for Mobile Robots**. IEEE Transactions on Intelligent Vehicles (IEEE T-IV).
+  - **A Survey of Learning-based Robot Motion Planning**. J. WANG, T. ZHANG, N. MA, H. MA, **F. MENG**, Max Q.-H. MENG*. IET Cyber-Systems and Robotics.
 
 **Conference Publications**
-  - **Reciprocally Rotating Magnetic Actuation and Automatic Trajectory Following for Wireless Capsule Endoscopy**
-    - Y. XU, K. LI, Z. ZHAO, **F. MENG**, Max Q.-H. MENG*
-    - 2021 IEEE International Conference on Robotics and Automation (ICRA)
-  - **A Nonuniform Sampling Strategy for Path Planning Using Heuristic-based Certiﬁcate Set**
-    - H. MA, J. LIU, **F. MENG**, J. PAN, J. WANG*, Max Q.-H. MENG* 
-    - 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO)
-  - **A Model-free Adaptive Controller for Biomimetic Pneumatically Actuated Continuum Manipulators**
-    - **F. MENG**, Y. Lyu, G. MA, Y. ZHU 
-    - 2018 IEEE International Conference on Robotics and Biomimetics (ROBIO).
+  - Y. XU, K. LI, Z. ZHAO, **F. MENG**, Max Q.-H. MENG*. **Reciprocally Rotating Magnetic Actuation and Automatic Trajectory Following for Wireless Capsule Endoscopy**. 2021 IEEE International Conference on Robotics and Automation (ICRA).
+  - **A Nonuniform Sampling Strategy for Path Planning Using Heuristic-based Certiﬁcate Set**. H. MA, J. LIU, **F. MENG**, J. PAN, J. WANG*, Max Q.-H. MENG*. 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO).
+  - **A Model-free Adaptive Controller for Biomimetic Pneumatically Actuated Continuum Manipulators**. **F. MENG**, Y. Lyu, G. MA, Y. ZHU. 2018 IEEE International Conference on Robotics and Biomimetics (ROBIO).
 
 Academic Service
 ==============
