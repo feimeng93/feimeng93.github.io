@@ -27,12 +27,12 @@ Publications
 **Journal Publications**
   - L. CHEN, **F. MENG**, Y. ZHANG*. **An HVAC Control Approach via Combining Model-based Deep Reinforcement Learning and Model Predictive Control**. IEEE Internet of Things Journal (IEEE IoT).
   - H. MA, **F. MENG**, J. WANG*, Max Q.-H. MENG*. **Bi-Risk-RRT Based Efficient Motion Planning for Mobile Robots**. IEEE Transactions on Intelligent Vehicles (IEEE T-IV).
-  - **A Survey of Learning-based Robot Motion Planning**. J. WANG, T. ZHANG, N. MA, H. MA, **F. MENG**, Max Q.-H. MENG*. IET Cyber-Systems and Robotics.
+  - J. WANG, T. ZHANG, N. MA, H. MA, **F. MENG**, Max Q.-H. MENG*. **A Survey of Learning-based Robot Motion Planning**. IET Cyber-Systems and Robotics.
 
 **Conference Publications**
   - Y. XU, K. LI, Z. ZHAO, **F. MENG**, Max Q.-H. MENG*. **Reciprocally Rotating Magnetic Actuation and Automatic Trajectory Following for Wireless Capsule Endoscopy**. 2021 IEEE International Conference on Robotics and Automation (ICRA).
-  - **A Nonuniform Sampling Strategy for Path Planning Using Heuristic-based Certiﬁcate Set**. H. MA, J. LIU, **F. MENG**, J. PAN, J. WANG*, Max Q.-H. MENG*. 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO).
-  - **A Model-free Adaptive Controller for Biomimetic Pneumatically Actuated Continuum Manipulators**. **F. MENG**, Y. Lyu, G. MA, Y. ZHU. 2018 IEEE International Conference on Robotics and Biomimetics (ROBIO).
+  - H. MA, J. LIU, **F. MENG**, J. PAN, J. WANG*, Max Q.-H. MENG*. **A Nonuniform Sampling Strategy for Path Planning Using Heuristic-based Certiﬁcate Set**. 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO).
+  - **F. MENG**, Y. Lyu, G. MA, Y. ZHU. **A Model-free Adaptive Controller for Biomimetic Pneumatically Actuated Continuum Manipulators**. 2018 IEEE International Conference on Robotics and Biomimetics (ROBIO).
 
 Academic Service
 ==============
