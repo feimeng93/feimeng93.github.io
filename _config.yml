@@ -87,7 +87,7 @@ author:
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SDvxmt0AAAAJ&hl=zh-CN"
-  email            : "feimeng@link.cuhk.edu.hk"
+  email            : "<a href= "mailto:feimeng@link.cuhk.edu.hk"> Send Email </a>"
   researchgate     : "https://www.researchgate.net/profile/Fei-Meng-10"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-9225-040X"
+  orcid            : #"https://orcid.org/my-orcid?orcid=0000-0001-9225-040X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
