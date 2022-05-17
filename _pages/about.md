@@ -32,9 +32,9 @@ Publications
   - J. WANG, T. ZHANG, N. MA, H. MA, **F. MENG**, Max Q.-H. MENG*. [**A Survey of Learning-based Robot Motion Planning**](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/csy2.12020). IET Cyber-Systems and Robotics.
 
 **Conference Publications**
-  - Y. XU, K. LI, Z. ZHAO, **F. MENG**, Max Q.-H. MENG*. **Reciprocally Rotating Magnetic Actuation and Automatic Trajectory Following for Wireless Capsule Endoscopy**. 2021 IEEE International Conference on Robotics and Automation (ICRA).
-  - H. MA, J. LIU, **F. MENG**, J. PAN, J. WANG*, Max Q.-H. MENG*. **A Nonuniform Sampling Strategy for Path Planning Using Heuristic-based Certiﬁcate Set**. 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO).
-  - **F. MENG**, Y. Lyu, G. MA, Y. ZHU. **A Model-free Adaptive Controller for Biomimetic Pneumatically Actuated Continuum Manipulators**. 2018 IEEE International Conference on Robotics and Biomimetics (ROBIO).
+  - Y. XU, K. LI, Z. ZHAO, **F. MENG**, Max Q.-H. MENG*. [**Reciprocally Rotating Magnetic Actuation and Automatic Trajectory Following for Wireless Capsule Endoscopy**](https://ieeexplore.ieee.org/document/9561833). 2021 IEEE International Conference on Robotics and Automation (ICRA).
+  - H. MA, J. LIU, **F. MENG**, J. PAN, J. WANG*, Max Q.-H. MENG*. [**A Nonuniform Sampling Strategy for Path Planning Using Heuristic-based Certiﬁcate Set**](https://ieeexplore.ieee.org/document/9739494/). 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO).
+  - **F. MENG**, Y. Lyu, G. MA, Y. ZHU. [**A Model-free Adaptive Controller for Biomimetic Pneumatically Actuated Continuum Manipulators**](https://ieeexplore.ieee.org/document/8665233). 2018 IEEE International Conference on Robotics and Biomimetics (ROBIO).
 
 Let's get in touch!
 ========
