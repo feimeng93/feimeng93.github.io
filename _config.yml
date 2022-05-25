@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mr. Fei Meng"
-  avatar           : "./profile.jpeg"
+  avatar           : "profile.jpeg"
   bio              : "Ph.D. student at The Chinese University of Hong Kong, devoted to learning-based motion planning and control"
   location         : "Hong Kong"
   employer         : 
