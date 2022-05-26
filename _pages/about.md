@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, there! I am Memphis, Fei Meng, a Ph.D. student at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), supervised by [Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/). Before that, I received the B.Eng. and M.Eng. both from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), working with [Prof. Guangfu Ma](http://homepage.hit.edu.cn/maguangfu). 
+Hi, there! I am Memphis, Fei Meng, a Ph.D. student at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), supervised by [Prof. Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/). Before that, I received the B.Eng. and M.Eng. both from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), working with [Prof. Guangfu Ma](http://homepage.hit.edu.cn/maguangfu). 
 
 My research interests include learning-based motion planning and control.
 
