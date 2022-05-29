@@ -26,7 +26,7 @@ Preprints
 Publications
 ===== 
 **Journal Publications**
-  - L. CHEN, **F. MENG**, Y. ZHANG\*. [**An HVAC Control Approach via Combining Model-based Deep Reinforcement Learning and Model Predictive Control**](https://ieeexplore.ieee.org/document/9747916/). IEEE Internet of Things Journal (IEEE IoT).
+  - L. CHEN, **F. MENG**, Y. ZHANG\*. [**MBRL-MC: An HVAC Control Approach via Combining Model-based Deep Reinforcement Learning and Model Predictive Control**](https://ieeexplore.ieee.org/document/9747916/). IEEE Internet of Things Journal (IEEE IoT).
   - H. MA, **F. MENG**, J. WANG\*, Max Q.-H. MENG\*. [**Bi-Risk-RRT Based Efficient Motion Planning for Mobile Robots**](https://ieeexplore.ieee.org/document/9718167). IEEE Transactions on Intelligent Vehicles (IEEE T-IV).
   - F. BAI, **F. MENG**, J. LIU, J. WANG, Max Q.-H. MENG\*. [**Hierarchical Policy for Non-prehensile Multi-object Rearrangement with Deep Reinforcement Learning and Monte Carlo Tree Search**](https://arxiv.org/abs/2109.08973). Biomimetic Intelligence and Robotics.
   - J. WANG, T. ZHANG, N. MA, H. MA, **F. MENG**, Max Q.-H. MENG\*. [**A Survey of Learning-based Robot Motion Planning**](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/csy2.12020). IET Cyber-Systems and Robotics.
