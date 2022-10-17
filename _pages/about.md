@@ -16,7 +16,7 @@ News
 ======
 - 10/2022 One article "NR-RRT: Neural Risk-Aware Near-Optimal Path Planning in Uncertain Nonconvex Environments" accepted by IEEE T-ASE.
 - 05/2022 One article "Fast Human-in-the-loop Control for HVAC Systems via Meta-learning and Model-based Offline Reinforcement Learning" was submitted to IEEE Transactions on Sustainable Computing.
-- 04/2022 One paper was accpected to IEEE IoT.
+- 04/2022 One paper was accpected by IEEE IoT.
 
 Preprints
 ======
