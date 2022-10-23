@@ -39,5 +39,4 @@ Publications
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/5.js?i=5d4rkzrp854&amp;m=0&amp;c=ff0000&amp;cr1=ffffff" async="async"></script>
 
-<center><sub><sup>Last Updated: Oct./2022. E-mail:feimeng_at_link.cuhk.edu.hk. Download my [CV](../files/cv.pdf)</sup></sub></center>
-
+<center>Last Updated: Oct./2022. E-mail:feimeng_at_link.cuhk.edu.hk. Download my [CV](../files/cv.pdf)</center>
