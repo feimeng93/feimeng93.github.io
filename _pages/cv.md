@@ -15,7 +15,7 @@ Education
 ======
 * Ph.D. in Electronic Engineering, The Chinese University of Hong Kong, 2024 (expected), Supervisor: [Prof. Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/)
 * M.Eng. in Control Engineering, Harbin Institute of Technology, 2019, Supervisor: [Prof. Guangfu Ma](http://homepage.hit.edu.cn/maguangfu)
-* B.Eng. in Electrical Engineering and Automation, Harbin Institute of Technology, 2016, Tutor: [Prof. Huihui Song](http://homepage.hit.edu.cn/HuihuiSong)
+* B.Eng. in Electrical Engineering and Automation, Harbin Institute of Technology, 2016, Mentor: [Prof. Huihui Song](http://homepage.hit.edu.cn/HuihuiSong)
 
 
 Academic Service
@@ -29,8 +29,8 @@ Academic Service
 - Session chair of IEEE International Conference on Robotics and Automation (ICRA), 2021
 
 **Teaching Assistant**
-- Introduction to Electric Power Systems (ELEG3601) for Undergraduates. Spring 2021, CUHK, HK, China
-- Fundamentals of Electric Circuits (ELEG2202A) for Undergraduates. Fall 2020/21, CUHK, HK, China
+- Introduction to Electric Power Systems (ELEG3601) for Undergraduates. Spring 2021/2022, CUHK, Hong Kong
+- Fundamentals of Electric Circuits (ELEG2202A) for Undergraduates. Fall 2020/21, CUHK, Hong Kong
 
 Honors & Awards
 ======
@@ -57,6 +57,6 @@ Research Experiences
 
 Skills
 ======
-* Programming skills: C/C++, Python, MATLAB/Simulink, Maple, Julia, R.
+* Programming skills: C/C++, Python, MATLAB/Simulink, Maple, Julia, R, Torch.
 * Robotic Software: ROS, Gazebo, MoveIt, Vrep, Pybullet.
 * Languages: Mandarin (Native), English (Fluent).
