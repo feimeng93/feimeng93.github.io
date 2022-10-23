@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, there! I am Memphis, Fei Meng, a Ph.D. candidate at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), supervised by [Prof. Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/). Before that, I received the B.Eng. and M.Eng. both from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), working with [Prof. Guangfu Ma](http://homepage.hit.edu.cn/maguangfu). 
-
-My research interests include motion planning and control under uncertainty.
+Hi, there! I am Memphis, Fei Meng, a Ph.D. candidate at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), supervised by [Prof. Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/). Before that, I received the B.Eng. and M.Eng. both from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), working with [Prof. Guangfu Ma](http://homepage.hit.edu.cn/maguangfu). My research interests include motion planning and control under uncertainty. Download my [CV](../files/cv.pdf).
 
 News
 ======
@@ -37,4 +35,4 @@ Publications
 - **F. MENG**, Y. Lyu\*, G. MA, Y. ZHU. [**A Model-free Adaptive Controller for Biomimetic Pneumatically Actuated Continuum Manipulators**](https://ieeexplore.ieee.org/document/8665233). 2018 IEEE International Conference on Robotics and Biomimetics (ROBIO).
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/5.js?i=5d4rkzrp854&amp;m=0&amp;c=ff0000&amp;cr1=ffffff" async="async"></script>
-<font size=3><p align="center">E-mail:feimeng_at_link.cuhk.edu.hk. Download my [CV]</p></font>(../files/cv.pdf)
+<font size=3><p align="center">E-mail:feimeng_at_link.cuhk.edu.hk</p></font>
