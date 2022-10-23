@@ -37,4 +37,4 @@ Publications
 - **F. MENG**, Y. Lyu\*, G. MA, Y. ZHU. [**A Model-free Adaptive Controller for Biomimetic Pneumatically Actuated Continuum Manipulators**](https://ieeexplore.ieee.org/document/8665233). 2018 IEEE International Conference on Robotics and Biomimetics (ROBIO).
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/5.js?i=5d4rkzrp854&amp;m=0&amp;c=ff0000&amp;cr1=ffffff" async="async"></script>
-<font size=3><center>E-mail:feimeng_at_link.cuhk.edu.hk. Download my [CV](../files/cv.pdf)<\center></font>
+<font size=3><p align="center">E-mail:feimeng_at_link.cuhk.edu.hk. Download my [CV](../files/cv.pdf)</p></font>
