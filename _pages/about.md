@@ -36,6 +36,5 @@ Publications
 - H. MA, J. LIU, **F. MENG**, J. PAN, J. WANG*, Max Q.-H. MENG\*. [**A Nonuniform Sampling Strategy for Path Planning Using Heuristic-based Certiﬁcate Set**](https://ieeexplore.ieee.org/document/9739494/). 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO).
 - **F. MENG**, Y. Lyu\*, G. MA, Y. ZHU. [**A Model-free Adaptive Controller for Biomimetic Pneumatically Actuated Continuum Manipulators**](https://ieeexplore.ieee.org/document/8665233). 2018 IEEE International Conference on Robotics and Biomimetics (ROBIO).
 
-
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/5.js?i=5d4rkzrp854&amp;m=0&amp;c=ff0000&amp;cr1=ffffff" async="async"></script>
-E-mail:feimeng_at_link.cuhk.edu.hk. Download my [CV](../files/cv.pdf)
+<center><sub><sup>E-mail:feimeng_at_link.cuhk.edu.hk. Download my [CV](../files/cv.pdf)</sup></sub></center>
