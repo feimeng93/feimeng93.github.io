@@ -22,6 +22,7 @@ Academic Service
 ======
 **Reviewers & Conference Chair**
 - IEEE Robotics and Automation Letters (IEEE RA-L)
+- IEEE Internet of Things Journal (IEEE IoT)
 - IEEE Transactions on Automation Science and Engineering (IEEE T-ASE)
 - IEEE Transactions on Systems, Man, and Cybernetics: Systems (IEEE SMC)
 - IEEE International Conference on Robotics and Automation (ICRA)
@@ -30,7 +31,7 @@ Academic Service
 
 **Teaching Assistant**
 - Introduction to Electric Power Systems (ELEG3601) for Undergraduates. Spring 2021/2022, CUHK, Hong Kong
-- Fundamentals of Electric Circuits (ELEG2202A) for Undergraduates. Fall 2020/21, CUHK, Hong Kong
+- Fundamentals of Electric Circuits (ELEG2202A) for Undergraduates. Fall 2020/21/22, CUHK, Hong Kong
 
 Honors & Awards
 ======
@@ -38,7 +39,7 @@ Honors & Awards
 - China Electronics Technology Group Corporation Glarun Scholarship (2/1223)
 - Outstanding Graduates of Harbin Institute of Technology (top 10%)
 - Outstanding Student of Harbin Institute of Technology (top 4%)
-- Top Ten Student Leader of Harbin Institute of Technology
+- Top Ten Student Leaders of Harbin Institute of Technology
 
 
 Work experience
