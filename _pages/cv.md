@@ -47,8 +47,8 @@ Work experience
 * **Research Assistant** at The Chinese University of Hong Kong, Hong Kong, 2019-2020, Supervisor: Prof. Max Q.-H. Meng
   * Duties included: Constrcut and control the ederly-care robotic rollator. 
 
-* **Intern** at 2012 Lab, Huawei Technologies Co. Ltd., Shenzhen, 05/2021 – 09/2021, Mentor: Dr. Chen Chen
-  * Duties included: Develop the learning-based motion planner for the mobile manipulator. 
+<!--* **Intern** at 2012 Lab, Huawei Technologies Co. Ltd., Shenzhen, 05/2021 – 09/2021, Mentor: Dr. Chen Chen
+  * Duties included: Develop the learning-based motion planner for the mobile manipulator. -->
  
  
 Research Experiences
