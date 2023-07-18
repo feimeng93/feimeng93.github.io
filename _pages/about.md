@@ -8,19 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Hi, there! I am Memphis, Fei Meng, a Ph.D. candidate at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), supervised by [Prof. Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/). Before that, I received the B.Eng. and M.Eng. both from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), working with [Prof. Guangfu Ma](http://homepage.hit.edu.cn/maguangfu). My research interests include motion planning and control under uncertainty. Download my [CV](../files/cv.pdf).
+Hi, there! I am Memphis, Fei Meng, a Ph.D. candidate at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), supervised by [Prof. Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/). Before that, I received the B.Eng. and M.Eng. both from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), working with [Prof. Guangfu Ma](http://homepage.hit.edu.cn/maguangfu). My research interests include learning-based motion planning and control. Download my [CV](../files/cv.pdf).
 
 News
 ======
-- 10/2022 Paper "Learning-based Risk-Bounded Path Planning Under Environmental Uncertainty" submitted to IEEE Transactions on Automation Science and Engineering.
-- 10/2022 Paper "NR-RRT: Neural Risk-Aware Near-Optimal Path Planning in Uncertain Nonconvex Environments" accepted to IEEE T-ASE.
-- 05/2022 Paper "Fast Human-in-the-loop Control for HVAC Systems via Meta-learning and Model-based Offline Reinforcement Learning" submitted to IEEE Transactions on Sustainable Computing.
-- 04/2022 Paper accpected to IEEE IoT.
+- 07/2023 One Paper is accepted to IEEE Transactions on Automation Science and Engineering.
+- 06/2023 One Paper is accepted to Biomimetic Intelligence and Robotics.
+- 02/2023 One Paper is accepted to IEEE Transactions on Sustainable Computing.
   
 Publications
 ===== 
-- **F. MENG**, L. CHEN, H. MA, J. WANG\*, Max Q.-H. MENG\*. [**NR-RRT: Neural Risk-Aware Near-Optimal Path Planning in Uncertain Nonconvex Environments**](https://ieeexplore.ieee.org/document/9928264). IEEE Transactions on Automation Science and Engineering (DOI:10.1109/TASE.2022.3215562).
-- **F. MENG**, L. CHEN, H. MA, J. WANG\*, Max Q.-H. MENG\*. **Learning-based Risk-Bounded Path Planning Under Environmental Uncertainty**. IEEE Transactions on Automation Science and Engineering (Under review).
+- **F. MENG**, L. CHEN, H. MA, J. WANG\*, Max Q.-H. MENG\*. **Learning-based Risk-Bounded Path Planning Under Environmental Uncertainty**. IEEE Transactions on Automation Science and Engineering (IEEE T-ASE).
+- C. Li, **F. Meng**, H. Ma, J. Wang\*, Max Q.-H. Meng\*. [**Relevant Region Sampling Strategy with Adaptive Heuristic for Asymptotically Optimal Path Planning**](https://doi.org/10.1016/j.birob.2023.100113). Biomimetic Intelligence and Robotics.
+- L. CHEN, **F. MENG**, Y. ZHANG\*. [**Fast Human-in-the-loop Control for HVAC Systems via Meta-learning and Model-based Offline Reinforcement Learning**](https://ieeexplore.ieee.org/document/10057050). IEEE Transactions on Sustainable Computing (IEEE T-SUSC).
+- **F. MENG**, L. CHEN, H. MA, J. WANG\*, Max Q.-H. MENG\*. [**NR-RRT: Neural Risk-Aware Near-Optimal Path Planning in Uncertain Nonconvex Environments**](https://ieeexplore.ieee.org/document/9928264). IEEE Transactions on Automation Science and Engineering (IEEE T-ASE).
 - L. CHEN, **F. MENG**, Y. ZHANG\*. [**MBRL-MC: An HVAC Control Approach via Combining Model-based Deep Reinforcement Learning and Model Predictive Control**](https://ieeexplore.ieee.org/document/9747916/). IEEE Internet of Things Journal (IEEE IoT).
 - H. MA, **F. MENG**, J. WANG\*, Max Q.-H. MENG\*. [**Bi-Risk-RRT Based Efficient Motion Planning for Mobile Robots**](https://ieeexplore.ieee.org/document/9718167). IEEE Transactions on Intelligent Vehicles (IEEE T-IV).
 - F. BAI, **F. MENG**, J. LIU, J. WANG, Max Q.-H. MENG\*. [**Hierarchical Policy for Non-prehensile Multi-object Rearrangement with Deep Reinforcement Learning and Monte Carlo Tree Search**](https://arxiv.org/abs/2109.08973). Biomimetic Intelligence and Robotics.
