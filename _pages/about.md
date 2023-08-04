@@ -18,7 +18,7 @@ News
   
 Publications
 ===== 
-- **F. MENG**, L. CHEN, H. MA, J. WANG\*, Max Q.-H. MENG\*. **Learning-based Risk-Bounded Path Planning Under Environmental Uncertainty**. IEEE Transactions on Automation Science and Engineering (IEEE T-ASE).
+- **F. MENG**, L. CHEN, H. MA, J. WANG\*, Max Q.-H. MENG\*. [**Learning-based Risk-Bounded Path Planning Under Environmental Uncertainty**](https://ieeexplore.ieee.org/document/10207032). IEEE Transactions on Automation Science and Engineering (IEEE T-ASE).
 - C. Li, **F. Meng**, H. Ma, J. Wang\*, Max Q.-H. Meng\*. [**Relevant Region Sampling Strategy with Adaptive Heuristic for Asymptotically Optimal Path Planning**](https://doi.org/10.1016/j.birob.2023.100113). Biomimetic Intelligence and Robotics.
 - L. CHEN, **F. MENG**, Y. ZHANG\*. [**Fast Human-in-the-loop Control for HVAC Systems via Meta-learning and Model-based Offline Reinforcement Learning**](https://ieeexplore.ieee.org/document/10057050). IEEE Transactions on Sustainable Computing (IEEE T-SUSC).
 - **F. MENG**, L. CHEN, H. MA, J. WANG\*, Max Q.-H. MENG\*. [**NR-RRT: Neural Risk-Aware Near-Optimal Path Planning in Uncertain Nonconvex Environments**](https://ieeexplore.ieee.org/document/9928264). IEEE Transactions on Automation Science and Engineering (IEEE T-ASE).
