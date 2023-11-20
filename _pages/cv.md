@@ -22,6 +22,7 @@ Academic Service
 ======
 **Reviewers & Conference Chair**
 - IEEE Robotics and Automation Letters (IEEE RA-L)
+- IEEE Transactions on Industrial Informatics (IEEE TII)
 - IEEE Internet of Things Journal (IEEE IoT)
 - IEEE Transactions on Automation Science and Engineering (IEEE T-ASE)
 - IEEE Transactions on Systems, Man, and Cybernetics: Systems (IEEE SMC)
