@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Electronic Engineering, The Chinese University of Hong Kong, 2024 (expected), Supervisor: [Prof. Max Q.-H. MENG](https://www.ee.cuhk.edu.hk/~qhmeng/) and [Prof. Hongliang REN](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang)
+* Ph.D. in Electronic Engineering, The Chinese University of Hong Kong, (undergoing), Supervisor: [Prof. Max Q.-H. MENG](https://www.ee.cuhk.edu.hk/~qhmeng/) and [Prof. Hongliang REN](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang)
 * M.Eng. in Control Engineering, Harbin Institute of Technology, 2019, Supervisor: [Prof. Guangfu MA](http://homepage.hit.edu.cn/maguangfu)
 * B.Eng. in Electrical Engineering and Automation, Harbin Institute of Technology, 2016
 
