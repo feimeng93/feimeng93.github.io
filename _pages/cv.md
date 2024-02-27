@@ -21,14 +21,8 @@ Education
 Academic Service
 ======
 **Reviewers & Conference Chair**
-- IEEE Robotics and Automation Letters (IEEE RA-L)
-- IEEE Transactions on Industrial Informatics (IEEE TII)
-- IEEE Internet of Things Journal (IEEE IoT)
-- IEEE Transactions on Automation Science and Engineering (IEEE T-ASE)
-- IEEE Transactions on Systems, Man, and Cybernetics: Systems (IEEE SMC)
-- IEEE International Conference on Robotics and Automation (ICRA)
-- IEEE International Conference on Robotics and Biomimetics (ROBIO)
-- Session chair of IEEE International Conference on Robotics and Automation (ICRA), 2021
+- IEEE RA-L, IEEE T-II, IEEE IoT, IEEE T-ASE, IEEE T-SMC, IEEE ICRA 2022/2024, IEEE ROBIO 2021
+- Session chair of IEEE ICRA 2021
 
 **Teaching Assistant**
 - Introduction to Electric Power Systems (ELEG3601) for Undergraduates. Spring 2021/2022, CUHK, Hong Kong
@@ -46,7 +40,7 @@ Honors & Awards
 Work experience
 ======
 * **Research Assistant** at The Chinese University of Hong Kong, Hong Kong, 2019-2020, Supervisor: Prof. Max Q.-H. Meng
-  * Duties included: Constrcut and control the ederly-care robotic rollator. 
+  * Duties included: Development of a Robotic Rollator-orthosis System for Mobility Augmentation and Eldercare. 
 
 <!--* **Intern** at 2012 Lab, Huawei Technologies Co. Ltd., Shenzhen, 05/2021 – 09/2021, Mentor: Dr. Chen Chen
   * Duties included: Develop the learning-based motion planner for the mobile manipulator. -->
@@ -55,7 +49,7 @@ Work experience
 Research Experiences
 =======
 - Member of "Development of a Robotic Rollator-orthosis System for Mobility Augmentation and Eldercare", Midstream Research Programme for University, ITC, HK 
-- Member of "Design & Implementation of Control System for Pneumatically Actuated Continuum Manipulator", Crosswise Task from China Academy of Space Technology, China 
+- Member of "Design & Implementation of Control System for Pneumatically Actuated Continuum Manipulator", China 
 
 Skills
 ======
