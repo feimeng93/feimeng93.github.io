@@ -13,16 +13,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Electronic Engineering, The Chinese University of Hong Kong, 2024 (expected), Supervisor: [Prof. Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/)
-* M.Eng. in Control Engineering, Harbin Institute of Technology, 2019, Supervisor: [Prof. Guangfu Ma](http://homepage.hit.edu.cn/maguangfu)
-* B.Eng. in Electrical Engineering and Automation, Harbin Institute of Technology, 2016, Mentor: [Prof. Huihui Song](http://homepage.hit.edu.cn/HuihuiSong)
+* Ph.D. in Electronic Engineering, The Chinese University of Hong Kong, 2024 (expected), Supervisor: [Prof. Max Q.-H. MENG](https://www.ee.cuhk.edu.hk/~qhmeng/) and [Prof. Hongliang REN](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang)
+* M.Eng. in Control Engineering, Harbin Institute of Technology, 2019, Supervisor: [Prof. Guangfu MA](http://homepage.hit.edu.cn/maguangfu)
+* B.Eng. in Electrical Engineering and Automation, Harbin Institute of Technology, 2016
 
 
 Academic Service
 ======
 **Reviewers & Conference Chair**
-- IEEE RA-L, IEEE T-II, IEEE IoT, IEEE T-ASE, IEEE T-SMC, IEEE ICRA 2022/2024, IEEE ROBIO 2021
-- Session chair of IEEE ICRA 2021
+- IEEE RAL, IEEE TII, IEEE IoT, IEEE TASE, IEEE TSMC, 2022/2024 IEEE ICRA, 2021 IEEE ROBIO
+- Session chair of 2021 IEEE ICRA
 
 **Teaching Assistant**
 - Introduction to Electric Power Systems (ELEG3601) for Undergraduates. Spring 2021/2022, CUHK, Hong Kong
