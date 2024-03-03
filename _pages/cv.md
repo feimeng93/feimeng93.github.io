@@ -21,7 +21,7 @@ Education
 Academic Service
 ======
 **Reviewers & Conference Chair**
-- IEEE RAL, IEEE TII, IEEE IoT, IEEE TASE, IEEE TSMC, 2022/2024 IEEE ICRA, 2021 IEEE ROBIO
+- IEEE RAL, IEEE TII, IEEE IoT, IEEE TASE, IEEE TSMC, The Journal of Supercomputing, 2022/2024 IEEE ICRA, 2021 IEEE ROBIO
 - Session chair of 2021 IEEE ICRA
 
 **Teaching Assistant**
