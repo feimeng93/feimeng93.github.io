@@ -20,7 +20,7 @@ News
   
 Publications
 ===== 
-- **F. MENG**, J. LIU, H. SHI, H. REN, Max Q.-H. MENG\*. **Online Time-Informed Kinodynamic Motion Planning of Nonlinear Systems**. (Under review IEEE RAL)
+- **F. MENG**, J. LIU, H. SHI, H. MA, H. REN\*, Max Q.-H. MENG\*. **Online Time-Informed Kinodynamic Motion Planning of Nonlinear Systems**. (Under review IEEE RAL)
 - Y. Yang, **F. MENG**, Z. MENG, C. YANG\*. [**RAMPAGE: Towards Whole-body, Real-Time and Agile Motion Planning in Unknown Cluttered Environments for Mobile Manipulators**](https://ieeexplore.ieee.org/abstract/document/10472786). IEEE Transactions on Industrial Electronics, 2024 (IEEE TIE)
 - **F. MENG**, L. CHEN, H. MA, J. WANG\*, Max Q.-H. MENG\*. [**Learning-based Risk-Bounded Path Planning Under Environmental Uncertainty**](https://ieeexplore.ieee.org/document/10207032). IEEE Transactions on Automation Science and Engineering, 2023 (IEEE TASE with IEEE ICRA 2024).
 - C. Li, **F. MENG**, H. MA, J. WANG\*, Max Q.-H. MENG\*. [**Relevant Region Sampling Strategy with Adaptive Heuristic for Asymptotically Optimal Path Planning**](https://www.sciencedirect.com/science/article/pii/S266737972300027X). Biomimetic Intelligence and Robotics, 2023 (BIROB).
