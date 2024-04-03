@@ -21,7 +21,7 @@ Education
 Academic Service
 ======
 **Reviewers & Conference Chair**
-- IEEE RAL, IEEE TII, IEEE IoT, IEEE TASE, IEEE TSMC, The Journal of Supercomputing, 2022/2024 IEEE ICRA, 2021 IEEE ROBIO, 2024 IEEE IROS, 2024 IEEE CASE
+- IEEE RAL, IEEE TII, IEEE IoT, IEEE TASE, IEEE TSMC, The Journal of Supercomputing, 2021 IEEE ROBIO, 2022 IEEE ICRA, 2024 IEEE ICRA/IROS/CASE
 - Session chair of 2021 IEEE ICRA
 
 **Teaching Assistant**
@@ -53,6 +53,6 @@ Research Experiences
 
 Skills
 ======
-* Programming skills: C/C++, Python, MATLAB/Simulink, Maple, Julia, R, Torch.
+* Programming skills: C/C++, Python, MATLAB/Simulink, Maple, Julia, R, Torch, Tensorflow
 * Robotic Software: ROS, Gazebo, MoveIt, Vrep, Pybullet.
 * Languages: Mandarin (Native), English (Fluent).
