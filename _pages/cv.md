@@ -17,6 +17,9 @@ Education
 * M.Eng. in Control Engineering, Harbin Institute of Technology, 2019, Supervisor: [Prof. Guangfu MA](http://homepage.hit.edu.cn/maguangfu)
 * B.Eng. in Electrical Engineering and Automation, Harbin Institute of Technology, 2016
 
+Research Interest
+=======
+Motion Planning, Reachability Analysis, Koopman Operator, Deep Reinforcement Learning, Data-Driven Control
 
 Academic Service
 ======
