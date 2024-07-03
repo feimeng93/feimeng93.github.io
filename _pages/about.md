@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, there! I am Fei MENG, a Ph.D. candidate at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), supervised by [Prof. Max Q.-H. MENG](https://www.ee.cuhk.edu.hk/~qhmeng/) and [Prof. Hongliang REN](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). Before that, I received the B.Eng. and M.Eng. both from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), working with [Prof. Guangfu MA](http://homepage.hit.edu.cn/maguangfu). My research interests include learning-based motion planning and control. Download my [CV](../files/cv.pdf).
+Hi, there! I am Fei MENG, a Ph.D. candidate at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), supervised by [Prof. Max Q.-H. MENG](https://www.ee.cuhk.edu.hk/~qhmeng/) and [Prof. Hongliang REN](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). Before that, I received the M.Eng. and B.Eng. both from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), working with [Prof. Guangfu MA](http://homepage.hit.edu.cn/maguangfu). My research interests include learning-based motion planning and control. Download my [CV](../files/cv.pdf).
 
 News
 ======
@@ -20,7 +20,7 @@ News
   
 Publications
 ===== 
-- **F. MENG**, J. LIU, H. SHI, H. MA, H. REN\*, Max Q.-H. MENG\*. **Online Time-Informed Kinodynamic Motion Planning of Nonlinear Systems**. (Under review IEEE RAL)
+- **F. MENG**, J. LIU, H. SHI, H. MA, H. REN\*, Max Q.-H. MENG\*. [**Online Time-Informed Kinodynamic Motion Planning of Nonlinear Systems**](). [Code](https://github.com/feimeng93/OnlineTimeInformedKinoMP). (Revised and resubmitted to IEEE RAL)
 - Y. Yang, **F. MENG**, Z. MENG, C. YANG\*. [**RAMPAGE: Towards Whole-body, Real-Time and Agile Motion Planning in Unknown Cluttered Environments for Mobile Manipulators**](https://ieeexplore.ieee.org/abstract/document/10472786). IEEE Transactions on Industrial Electronics, 2024
 - **F. MENG**, L. CHEN, H. MA, J. WANG\*, Max Q.-H. MENG\*. [**Learning-based Risk-Bounded Path Planning Under Environmental Uncertainty**](https://ieeexplore.ieee.org/document/10207032). IEEE Transactions on Automation Science and Engineering, 2023 (also with IEEE ICRA 2024)
 - C. Li, **F. MENG**, H. MA, J. WANG\*, Max Q.-H. MENG\*. [**Relevant Region Sampling Strategy with Adaptive Heuristic for Asymptotically Optimal Path Planning**](https://www.sciencedirect.com/science/article/pii/S266737972300027X). Biomimetic Intelligence and Robotics, 2023
