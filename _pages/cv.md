@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Electronic Engineering, The Chinese University of Hong Kong, (undergoing), Supervisor: [Prof. Max Q.-H. MENG](https://www.ee.cuhk.edu.hk/~qhmeng/) and [Prof. Hongliang REN](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang)
+* Ph.D. in Electronic Engineering, The Chinese University of Hong Kong, 2024, Supervisor: [Prof. Max Q.-H. MENG](https://www.ee.cuhk.edu.hk/~qhmeng/) and [Prof. Hongliang REN](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang)
 * M.Eng. in Control Engineering, Harbin Institute of Technology, 2019, Supervisor: [Prof. Guangfu MA](http://homepage.hit.edu.cn/maguangfu)
 * B.Eng. in Electrical Engineering and Automation, Harbin Institute of Technology, 2016
 
@@ -39,17 +39,15 @@ Honors & Awards
 
 Work experience
 ======
-* **Research Assistant** at The Chinese University of Hong Kong, Hong Kong, 2019-2020, Supervisor: Prof. Max Q.-H. Meng
-  * Duties included: Development of a Robotic Rollator-orthosis System for Mobility Augmentation and Eldercare. 
+* **Intern** at 2012 Lab, Huawei Technologies Co. Ltd., Shenzhen, China, 04/2021 – 09/2021
+  * Duties included: Real-time motion planning for the mobile manipulator in cluttered static/dynamic environments.
+ 
+* **Member** at CUHK, Midstream Research Programme for University, ITC, Hong Kong SAR, China, 07/2019-12/2021
+  * Duties included: Development of a robotic rollator-orthosis system for mobility augmentation and eldercare
+ 
+* **Student Member** at HIT, Cross task with Beijing Institute of Spacecraft Environment Engineering, Harbin, China
+  * Duties included: Design and implementation of control system for pneumatically actuated continuum manipulator
 
-<!--* **Intern** at 2012 Lab, Huawei Technologies Co. Ltd., Shenzhen, 05/2021 – 09/2021, Mentor: Dr. Chen Chen
-  * Duties included: Develop the learning-based motion planner for the mobile manipulator. -->
- 
- 
-Research Experiences
-=======
-- Member of "Development of a Robotic Rollator-orthosis System for Mobility Augmentation and Eldercare", Midstream Research Programme for University, ITC, HK 
-- Member of "Design & Implementation of Control System for Pneumatically Actuated Continuum Manipulator", China 
 
 Skills
 ======
