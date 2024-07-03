@@ -21,7 +21,7 @@ Education
 Academic Service
 ======
 **Reviewers & Conference Chair**
-- IEEE RA-L/T-II/IoT/T-ASE/T-SMC, 2021 IEEE ROBIO, 2022 IEEE ICRA, 2024 IEEE ICRA/IROS/CASE
+- IEEE RA-L/T-ITS/T-II/IoT/T-ASE/T-SMC, 2021 IEEE ROBIO, 2022 IEEE ICRA, 2024 IEEE ICRA/IROS/CASE
 - Session chair of 2021 IEEE ICRA
 
 **Teaching Assistant**
