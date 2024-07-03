@@ -42,7 +42,7 @@ Work experience
 * **Intern** at 2012 Lab, Huawei Technologies Co. Ltd., Shenzhen, China, 04/2021 – 09/2021
   * Duties included: Real-time motion planning for the mobile manipulator in cluttered static/dynamic environments.
  
-* **Member** at CUHK, Midstream Research Programme for University, ITC, Hong Kong SAR, China, 07/2019-12/2021
+* **Research Assistant** at CUHK, Midstream Research Programme for University, ITC, Hong Kong SAR, China, 07/2019-08/2020
   * Duties included: Development of a robotic rollator-orthosis system for mobility augmentation and eldercare
  
 * **Student Member** at HIT, Cross task with Beijing Institute of Spacecraft Environment Engineering, Harbin, China
