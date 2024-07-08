@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mr. Fei Meng (孟飞)"
+title                    : "Dr. Fei Meng (孟飞)"
 title_separator          : "-"
-name                     : &name "Mr. Fei Meng"
-description              : &description "Ph.D. candidate at The Chinese University of Hong Kong"
+name                     : &name "Dr. Fei Meng"
+description              : &description "Ph.D., The Chinese University of Hong Kong"
 url                      : https://feimeng93.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "feimeng93.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mr. Fei Meng"
+  name             : "Dr. Fei Meng"
   avatar           : "profile.jpeg"
-  bio              : "Ph.D. candidate at CUHK, devoted to learning-based motion planning and control"
+  bio              : "Ph.D., CUHK, learning-based motion planning and control"
   location         : "Hong Kong"
   employer         : 
   pubmed           : 
