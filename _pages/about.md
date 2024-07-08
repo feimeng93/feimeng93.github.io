@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, there! I am Fei MENG. I received my Ph.D. degree from [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), supervised by [Prof. Max Q.-H. MENG](https://www.ee.cuhk.edu.hk/~qhmeng/) and [Prof. Hongliang REN](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). Before that, I received the M.Eng. and B.Eng. both from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), working with [Prof. Guangfu MA](http://homepage.hit.edu.cn/maguangfu). My research interests include learning-based motion planning and control. Download my [CV](../files/cv.pdf).
+Hi, there! I am Fei MENG. I received my Ph.D. from [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), supervised by [Prof. Max Q.-H. MENG](https://www.ee.cuhk.edu.hk/~qhmeng/) and [Prof. Hongliang REN](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang). Before that, I received the M.Eng. and B.Eng. both from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), working with [Prof. Guangfu MA](http://homepage.hit.edu.cn/maguangfu). My research interests include learning-based motion planning and control. Download my [CV](../files/cv.pdf).
 
 News
 ======
