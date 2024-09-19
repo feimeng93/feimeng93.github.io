@@ -13,10 +13,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Electronic Engineering, The Chinese University of Hong Kong, 2024, Advisors: [Prof. Max Q.-H. MENG](https://www.ee.cuhk.edu.hk/~qhmeng/) and [Prof. Hongliang REN](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang)
-* Visiting Student, Southern University of Science and Technology, Advisor: [Prof. Guangren DUAN](https://www.sustech.edu.cn/en/faculties/guangrenduan.html)
-* M.Eng. in Control Engineering, Harbin Institute of Technology, 2019, Advisor: [Prof. Guangfu MA](http://homepage.hit.edu.cn/maguangfu)
-* B.Eng. in Electrical Engineering and Automation, Harbin Institute of Technology, 2016
+* Ph.D. in Electronic Engineering, The Chinese University of Hong Kong, 2020-2024, Advisors: [Prof. Max Q.-H. MENG](https://www.ee.cuhk.edu.hk/~qhmeng/) and [Prof. Hongliang REN](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang)
+* Visiting Ph.D. Student, Southern University of Science and Technology, 2023-2024, Advisor: [Prof. Guangren DUAN](https://www.sustech.edu.cn/en/faculties/guangrenduan.html)
+* M.Eng. in Control Engineering, Harbin Institute of Technology, 2017-2019, Advisor: [Prof. Guangfu MA](http://homepage.hit.edu.cn/maguangfu)
+* B.Eng. in Electrical Engineering and Automation, Harbin Institute of Technology, 2012-2016
 
 Research Interest
 =======
