@@ -22,7 +22,7 @@ News
   
 Publications
 ===== 
-- **F. MENG**, J. LIU, H. SHI, H. MA, H. REN\*, Max Q.-H. MENG\*. [**Online Time-Informed Kinodynamic Motion Planning of Nonlinear Systems**](https://ieeexplore.ieee.org/document/10682797). [[Code]](https://github.com/feimeng93/OnlineTimeInformedKinoMP). (IEEE Robotics and Automation Letters, 2024)
+- **F. MENG**, J. LIU, H. SHI, H. MA, H. REN\*, Max Q.-H. MENG\*. [**Online Time-Informed Kinodynamic Motion Planning of Nonlinear Systems**](https://ieeexplore.ieee.org/document/10682797). [[Code]](https://github.com/feimeng93/OnlineTimeInformedKinoMP). IEEE Robotics and Automation Letters, 2024
 - J. LIU, G. LI, X. MAO, **F. MENG**, J. MEI, Max Q.-H. MENG\*. [**SparseGTN: Human Trajectory Forecasting with Sparsely Represented Scene and Incomplete Trajectories**](). 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems
 - Y. Yang, **F. MENG**, Z. MENG, C. YANG\*. [**RAMPAGE: Towards Whole-body, Real-Time and Agile Motion Planning in Unknown Cluttered Environments for Mobile Manipulators**](https://ieeexplore.ieee.org/abstract/document/10472786). IEEE Transactions on Industrial Electronics, 2024
 - **F. MENG**, L. CHEN, H. MA, J. WANG\*, Max Q.-H. MENG\*. [**Learning-based Risk-Bounded Path Planning Under Environmental Uncertainty**](https://ieeexplore.ieee.org/document/10207032). IEEE Transactions on Automation Science and Engineering, 2023 (also with IEEE ICRA 2024)
