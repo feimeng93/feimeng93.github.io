@@ -25,7 +25,7 @@ Motion Planning, Reachability Analysis, Deep Reinforcement Learning-based Applic
 Academic Service
 ======
 **Editorial Board**
-Biomimetic Intelligence and Robotics (JCR Q1 in Robotics, IF:5.4)
+- Biomimetic Intelligence and Robotics (JCR Q1 in Robotics, IF:5.4)
 
 **Reviewers & Conference Chair**
 - IEEE RA-L/T-MECH/T-ITS/T-II/T-IE/IoT/T-ASE/T-VT/T-SMC, J-FR, BIRob, Robotica, 2021 IEEE ROBIO, 2022 IEEE ICRA, 2024 IEEE ICRA/IROS/CASE
