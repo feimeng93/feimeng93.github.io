@@ -37,6 +37,7 @@ Academic Service
 
 Honors & Awards
 ======
+- Research Talent Hub for ITF projects (RTH-ITF), ITC, Hong Kong, China
 - The Chinese University of Hong Kong Research Postgraduate Student Grants 
 - Outstanding Student of Heilongjiang Province, China (top 1%)
 - China Electronics Technology Group Corporation Glarun Scholarship (2/1223)
