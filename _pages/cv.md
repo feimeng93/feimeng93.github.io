@@ -20,16 +20,19 @@ Education
 
 Research Interest
 =======
-Motion Planning, Reachability Analysis, Deep Reinforcement Learning-based Applications, Fully Actuated System Control
+Construction Robotics, Motion Planning, Reachability Analysis, Deep Reinforcement Learning-based Applications, Fully Actuated System Control
 
 Academic Service
 ======
-**Editorial Board**
+**Editorial Board Member**
 - Biomimetic Intelligence and Robotics (JCR Q1 in Robotics, IF:5.4)
 
-**Reviewers & Conference Chair**
+**Reviewer**
 - IEEE RA-L/T-MECH/T-ITS/T-II/T-IE/IoT/T-ASE/T-VT/T-SMC, J-FR, BIRob, Robotica, 2021 IEEE ROBIO, 2022 IEEE ICRA, 2024 IEEE ICRA/IROS/CASE
+
+**Conference**
 - Session chair of 2021 IEEE ICRA
+- Program committee member of 2025 IEEE ROBIO
 
 **Teaching Assistant**
 - Introduction to Electric Power Systems (ELEG3601) for Undergraduates. Spring 2021/2022, CUHK, Hong Kong
