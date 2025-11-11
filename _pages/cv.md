@@ -24,8 +24,9 @@ Construction Robotics, Motion Planning, Reachability Analysis, Deep Reinforcemen
 
 Academic Service
 ======
-**Editorial Board Member**
+**Early Career Editorial Board Member**
 - Biomimetic Intelligence and Robotics (JCR Q1 in Robotics, IF:5.4)
+- Robot Learning
 
 **Reviewer**
 - IEEE RA-L/T-MECH/T-ITS/T-II/T-IE/IoT/T-ASE/T-VT/T-SMC, J-FR, BIRob, Robotica, 2021 IEEE ROBIO, 2022 IEEE ICRA, 2024 IEEE ICRA/IROS/CASE
