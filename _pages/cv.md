@@ -29,7 +29,7 @@ Academic Service
 - Robot Learning
 
 **Reviewer**
-- IEEE RA-L/T-MECH/T-ITS/T-II/T-IE/IoT/T-ASE/T-VT/T-SMC, J-FR, BIRob, Robotica, 2021 IEEE ROBIO, 2022 IEEE ICRA, 2024 IEEE ICRA/IROS/CASE
+- IEEE RA-L/T-MECH/T-ITS/T-II/T-IE/IoT/T-ASE/T-VT/T-SMC, J-FR, BIRob, Robotica, IEEE ICRA/IROS/CASE/ROBIO
 
 **Conference**
 - Session chair of 2021 IEEE ICRA
